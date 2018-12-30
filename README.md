@@ -7,10 +7,7 @@
 
 ## 内容
 
-该书（教程/仓库）的内容如图所示：
-![思维导图](http://7zh43r.com2.z0.glb.clouddn.com/del/mindmap.png)
-
-可以看出本教程可以分为两部分：
+本教程可以分为两部分：
 
 **基础部分**（前五章）讲解PyTorch内容，这部份介绍了PyTorch中主要的的模块，和深度学习中常用的一些工具。对于这部分内容，这里利用Jupyter Notebook作为教学工具，读者可以结合notebook修改运行，反复实验。
 
